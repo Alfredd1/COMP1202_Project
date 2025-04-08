@@ -1,0 +1,14 @@
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\bin\Debug\net8.0\assign2_Mudit_Navarro.exe
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\bin\Debug\net8.0\assign2_Mudit_Navarro.deps.json
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\bin\Debug\net8.0\assign2_Mudit_Navarro.runtimeconfig.json
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\bin\Debug\net8.0\assign2_Mudit_Navarro.dll
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\bin\Debug\net8.0\assign2_Mudit_Navarro.pdb
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\assign2_Mudit_Navarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\assign2_Mudit_Navarro.AssemblyInfoInputs.cache
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\assign2_Mudit_Navarro.AssemblyInfo.cs
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\assign2_Mudit_Navarro.csproj.CoreCompileInputs.cache
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\assign2_Mudit_Navarro.dll
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\refint\assign2_Mudit_Navarro.dll
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\assign2_Mudit_Navarro.pdb
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\assign2_Mudit_Navarro.genruntimeconfig.cache
+C:\ranz\Page\GBC\Year 1\Winter\COMP1202\COMP1202_ProjectV3\assign2_Mudit_Navarro\assign2_Mudit_Navarro\obj\Debug\net8.0\ref\assign2_Mudit_Navarro.dll
